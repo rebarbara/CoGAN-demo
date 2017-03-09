@@ -3,6 +3,9 @@
 This document aims to record some experiences while deploying [andrewliao11](https://github.com/andrewliao11/CoGAN-tensorflow)'s implementation of a [CoGAN](https://arxiv.org/abs/1606.07536) (Coupled Generative Adversarial Networks) model. Following along the lines of the code, I attempt to understand the architecture design decisions that were made.
 
 
+<img src="https://github.com/rebarbara/CoGAN-demo/blob/master/gan_simple.svg" width="500" />
+<img src="https://github.com/rebarbara/CoGAN-demo/blob/master/gan_probabilistic.svg" width="500" />
+
 
 **Generative models**
 
